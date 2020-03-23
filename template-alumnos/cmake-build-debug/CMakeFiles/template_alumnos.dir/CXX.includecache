@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Franco/CLionProjects/template-alumnos/src/main.cpp
+vectores.h
+C:/Users/Franco/CLionProjects/template-alumnos/src/vectores.h
+vector
+-
+iostream
+-
+string
+-
+fstream
+-
+stdlib.h
+-
+
+C:/Users/Franco/CLionProjects/template-alumnos/src/vectores.cpp
+vectores.h
+C:/Users/Franco/CLionProjects/template-alumnos/src/vectores.h
+iostream
+-
+fstream
+-
+
+C:/Users/Franco/CLionProjects/template-alumnos/src/vectores.h
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+stdlib.h
+-
+

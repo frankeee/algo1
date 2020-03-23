@@ -1,0 +1,3 @@
+C:/Users/Franco/CLionProjects/template-alumnos/cmake-build-debug/CMakeFiles/template_alumnos.dir
+C:/Users/Franco/CLionProjects/template-alumnos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Franco/CLionProjects/template-alumnos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Franco/CLionProjects/Labo9/template_alumnos/ejercicios.cpp
+ejercicios.h
+C:/Users/Franco/CLionProjects/Labo9/template_alumnos/ejercicios.h
+time.h
+C:/Users/Franco/CLionProjects/Labo9/template_alumnos/time.h
+ctime
+-
+stdlib.h
+C:/Users/Franco/CLionProjects/Labo9/template_alumnos/stdlib.h
+string
+-
+iostream
+-
+cmath
+-
+
+C:/Users/Franco/CLionProjects/Labo9/template_alumnos/ejercicios.h
+vector
+-
+string
+-
+
